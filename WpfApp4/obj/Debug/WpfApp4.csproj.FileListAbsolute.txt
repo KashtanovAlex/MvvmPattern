@@ -1,0 +1,16 @@
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\kashtanov.aleksandr\source\repos\WpfApp4\WpfApp4\obj\Debug\GeneratedInternalTypeHelper.g.cs
