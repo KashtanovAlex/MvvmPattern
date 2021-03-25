@@ -40,7 +40,7 @@ namespace WpfApp4.ViewModel
         private void SomeFunction()
         {
             var a = new ModelProgram();
-            statusBoolValue = a.FuncionInModel(statusBoolValue);
+            statusBoolValue = a.FuncionRead(statusBoolValue);
             TextBoxValue = Convert.ToString(statusBoolValue);
         }
     }

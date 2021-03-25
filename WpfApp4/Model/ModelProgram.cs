@@ -8,8 +8,9 @@ namespace WpfApp4.Model
 {
     class ModelProgram
     {
-        public bool FuncionInModel(bool value)
+        public bool FuncionRead(bool value)
         {
+            //функция чтения и тут же должен быть возрват не булевых значений, а именно массива байт
             if (value)
                 return false;
             else
